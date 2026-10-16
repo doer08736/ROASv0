@@ -94,6 +94,6 @@ interface GigabitEthernet0/1
 ```
 #### iv). Verification
 * PC1
-![PC1}}](imgs/PC1.png)
+![PC1](imgs/PC1.png)
 * PC3
-![PC3](PC3.png)
+![PC3](imgs/PC3.png)
