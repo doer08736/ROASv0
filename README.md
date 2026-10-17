@@ -2,7 +2,7 @@
 * [PingMyNetwork Sandbox](https://pingmynetwork.com/event/sandbox-challenge)
 ---
 # Inter-VLAN Routing using ROAS (Router On A Stick)
-![TOPO](imgs/TOPO.png)
+![TOPO](ROASv0/imgs/TOPO.png)
 
 ### 1). Topology Overview
 * This simulation allows four separated VLANs talking to each other when you only have one router and one cable going to it using ROAS (Router On A Stick)
@@ -94,6 +94,6 @@ interface GigabitEthernet0/1
 ```
 #### iv). Verification
 * PC1
-* ![PC1](imgs/PC1.png)
+* ![PC1](ROASv0/imgs/PC1.png)
 * PC3
-* ![PC3](imgs/PC3.png)
+* ![PC3](ROASv0/imgs/PC3.png)
